@@ -9,7 +9,7 @@ Las votaciones por los proyecto que a les estudiantes les interesan se manejaran
 Poner 3 casos de uso por requirement
 ## Plan de Calidad
 ## Arquitectura
-Por capas porque la arquitectura basada en capas se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de 
+Eligiremos arquitectura por capas porque se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de 
 separación de responsabilidades.
 
 Por ejemplo, una aplicación web típica está compuesta por una capa de presentación (funcionalidad relacionada con la interfaz de usuario), una capa de negocios (procesamiento de reglas de negocios) y una capa de datos (funcionalidad relacionada con el acceso a datos). Aplicaciones web Corporativas y sitios Web son ejemplos de esta arquitectura.
