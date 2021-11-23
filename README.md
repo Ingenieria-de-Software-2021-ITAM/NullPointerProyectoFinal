@@ -27,3 +27,4 @@ Utilizaremos la metodología AGILE porque utiliza periodos cortos de desarrollo 
 ## Código
 ## Documentación para replicar
 ## Propuesta económica
+https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0
