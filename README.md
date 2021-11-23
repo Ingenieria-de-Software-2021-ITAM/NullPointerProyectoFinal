@@ -13,7 +13,7 @@ Poner 3 casos de uso por requirement
 
 2.- Que los alumnes puedan votar por los proyectos que les gustan
 
-3.- Iniciar sesión usando su correo institucional como usuario
+3.- Que los alumnes inicien sesión usando su correo institucional como usuario
 
 ## Plan de Calidad
 ## Arquitectura
