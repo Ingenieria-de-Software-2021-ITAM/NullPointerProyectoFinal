@@ -10,8 +10,11 @@ Poner 3 casos de uso por requirement
 
 ###### Requerimientos
 1.- Que los alumnes puedan mandar ideas de proyectos
+
 2.- Que los alumnes puedan votar por los proyectos que les gustan
+
 3.- Iniciar sesión usando su correo institucional como usuario
+
 ## Plan de Calidad
 ## Arquitectura
 Eligiremos arquitectura por capas porque se enfoca en la distribución de roles y responsabilidades de forma jerárquica proveyendo una forma muy efectiva de 
