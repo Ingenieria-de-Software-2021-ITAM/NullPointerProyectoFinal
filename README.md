@@ -25,6 +25,7 @@ Por ejemplo, una aplicación web típica está compuesta por una capa de present
 
 Utilizaremos la metodología AGILE porque utiliza periodos cortos de desarrollo llamado Sprints. Además, este enfoque te permite hacer alteraciones para irte adaptando conforme avanza el proyecto. 
 ## Código
+https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a
 ## Documentación para replicar
 ## Propuesta económica
 https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0
