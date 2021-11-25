@@ -16,7 +16,7 @@ Las votaciones por los proyectos que a les estudiantes les interesan se manejan 
 
 ###  3.3 Pantalla "Proponer proyecto" (Al presionar enviar, aparece un mensaje de proyecto enviado correctamente)
 
-![proponer](https://user-images.githubusercontent.com/47927104/143373741-7f87f828-93e7-4d91-bf22-e46e535aa8ce.png)
+![proponer](https://user-images.githubusercontent.com/47927104/143380414-c894fe6c-6af0-453d-98cd-2f1a23b6a261.png)
 
 ###  3.4 Pantalla "Votar por proyectos" (Al votar por un proyecto, la opción de votar por ese proyecto desaparece)
 
