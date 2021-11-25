@@ -20,11 +20,11 @@ Las votaciones por los proyectos que a les estudiantes les interesan se manejan 
 
 ###  3.4 Pantalla "Votar por proyectos" (Al votar por un proyecto, la opción de votar por ese proyecto desaparece)
 
-![votar](https://user-images.githubusercontent.com/47927104/143373761-aa9f5906-07ce-49fe-a0d0-4f8b7e48d720.png)
+![votar](https://user-images.githubusercontent.com/47927104/143381921-3313d73a-eb63-46ec-88d2-e3feb7b68ff3.png)
 
 ###  3.5 Pantalla "Propuestas populares" (Aparecen las propuestas populares. Además, puedes buscar las propuestas por nombre, autor, descripción, etc)
 
-![propuestas](https://user-images.githubusercontent.com/47927104/143373751-95bbf69a-ed9a-4a40-ba15-71c324c353ab.png)
+![propuestas](https://user-images.githubusercontent.com/47927104/143381928-e565ade8-10f0-46f1-9ba0-5caa9b5554a1.png)
 
 
 ## 4. Software Requirements
