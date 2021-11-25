@@ -9,11 +9,11 @@ Las votaciones por los proyectos que a les estudiantes les interesan se manejan 
 Poner 3 casos de uso por requirement
 
 ###### Requerimientos
-1.- Que los alumnes puedan mandar ideas de proyectos
+1.- Que les alumnes puedan mandar ideas de proyectos
 
-2.- Que los alumnes puedan votar por los proyectos que les gustan
+2.- Que les alumnes puedan votar por los proyectos que les gustan
 
-3.- Que los alumnes inicien sesión usando su correo institucional como usuario
+3.- Que les alumnes inicien sesión usando su correo institucional como usuario
 
 ## Plan de Calidad
 ## Arquitectura
