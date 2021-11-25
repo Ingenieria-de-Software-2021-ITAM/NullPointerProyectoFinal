@@ -5,6 +5,18 @@ Elisa Espinosa, Jorge Ortiz, Karen Arteaga y Victor Castillejos
 ITAMPropone es una aplicación para proponer proyectos al ITAM en dónde les alumnes pueden votar por los mejores proyectos.
 Las votaciones por los proyectos que a les estudiantes les interesan se manejan de la siguiente forma. En la pantalla de votaciones aparece una tabla con el nombre y la descripción de cada proyecto. Además, aparece la opción de votar por los proyectos que te gusten, pero solo permite votar una vez por cada uno. 
 
+## 3. External Interface Requirements
+1. Pantalla "Inicio de sesión"
+
+2. Pantalla "Página principal"
+
+3. Pantalla "Proponer proyecto"
+
+4. Pantalla "Votar por proyectos"
+
+5. Pantalla "Proyectos seleccionados" 
+
+
 ##  Software Requirements
 Poner 3 casos de uso por requirement
 
