@@ -68,7 +68,7 @@ Poner 3 casos de uso por requirement
 
 #### &emsp; 4.3.1 Descripción y prioridad
 
- &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM beserven y/o voten las propuestas de les otres miembres de la comunidad. 
+ &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM observen y/o voten las propuestas de les otres miembres de la comunidad. 
 
 #### &emsp; 4.3.2 Secuencia de respuestas
 
@@ -81,6 +81,21 @@ Poner 3 casos de uso por requirement
 - REQ-3: Poder observar en la tabla los proyectos que cumplan con la búsqueda de la tabla.
 - REQ-4: Al votar por un proyecto, eliminar la opción de volver a votar, para evitar múltiples votos. 
 
+### 4.4 "Eliminar proyectos"
+
+#### &emsp; 4.4.1 Descripción y prioridad
+
+ &emsp; Prioridad baja. Permitir que alguna propuesta sea eliminada por algún ejecutivo porque ya se cumplió y eliminar las propuestas menos populares después de cierto teimpo. 
+
+#### &emsp; 4.4.2 Secuencia de respuestas
+
+ &emsp; Alguna propuesta se volvió obsoleta porque ya se cumplió o no tiene popularidad. Liberar espacio en la base de datos. 
+
+#### &emsp; 4.4.3 Requerimientos funcionales
+
+- REQ-1: Revisar que las propuestas con la popularidad (menos del 10% de la comunidad) más baja tengan menos de 1 semestre de antigüedad. Las que no cumplan con este enunciado, serán eliminadas. 
+- REQ-2: Poder eliminar alguna propuesta a voluntad.
+- REQ-3: Eliminar todos los datos existentes sobre la propuesta. 
 
 ## Plan de Calidad
 ## Arquitectura
