@@ -23,11 +23,11 @@ Las votaciones por los proyectos que a les estudiantes les interesan se manejan 
   ITAMPropone es un proyecto en fase de prototipo que está dirigido específicamente para la clase Ingeniería de Software del Instituto Tecnológico Autónomo de México. El objetivo de ITAMPropone es que los integrantes de la comunidad ITAM tengan un ambiente web seguro y confiable en el que puedan proponer y votar por los proyectos que se desarrollan dentro del campus.
   
   ### 1.5 Referencias
-  ![ITAMPropone prototipo (versión actual)](https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a)
+  ITAMPropone prototipo (versión actual): https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a
 
-  ![Repositorio en GitHub](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointer-Markdown)
+  Repositorio en GitHub: https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointer-Markdown
 
-  ![IEEE template for Software Requirement Specification](IEEE Software Requirements Specification Templatehttps://web.cs.dal.ca › ~hawkey › srs_template-ieee)
+  IEEE template for Software Requirement Specification: https://goo.gl/nsUFwy
 
 ## 2. Descripción general
 
