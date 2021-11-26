@@ -107,9 +107,10 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
 ![proponer](https://user-images.githubusercontent.com/47927104/143509497-3efa3db2-0c4d-45ea-a09c-3fd0edd5d284.png)
 
 
-###  3.4 Pantalla "Votar por proyectos" (Al votar por un proyecto, la opción de votar por ese proyecto desaparece)
+###  3.4 Pantalla "Votar por proyectos" (Al votar por un proyecto, aparece otro proyecto)
 
-![votar](https://user-images.githubusercontent.com/47927104/143381921-3313d73a-eb63-46ec-88d2-e3feb7b68ff3.png)
+![votar](https://user-images.githubusercontent.com/47927104/143510044-e73c8b71-2370-42cb-92d7-76fac376edfb.png)
+![votar2](https://user-images.githubusercontent.com/47927104/143510048-a0e9241b-1354-46d9-a3c7-023b49cef448.png)
 
 ###  3.5 Pantalla "Propuestas populares" (Aparecen las propuestas populares. Además, puedes buscar las propuestas por nombre, autor, descripción, etc)
 
@@ -167,8 +168,9 @@ Poner 3 casos de uso por requirement
 #### &emsp; 4.3.3 Requerimientos funcionales
 
 - REQ-1: Al votar por un proyecto, eliminar la opción de volver a votar, para evitar múltiples votos.
-- REQ-2: Si no votas por el proyecto, no debe aparecer de nuevo en feed de votaciones.
+- REQ-2: Si no votas por el proyecto, no debe aparecer de nuevo en feed de votaciones. A menos que el usuario decida regresar al proyecto anterior.
 - REQ-3: Poder leer las descripciones de los proyectos y ver las imágenes. 
+- REQ-4: Poder darle un valor especial a ese proyecto, en caso de que le encante al usuario. 
 
 ### 4.4 "Eliminar proyectos"
 
