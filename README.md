@@ -17,14 +17,25 @@ Los apartados que no se encuentran en el documento de especificación de requeri
 
 ## Arquitectura
 
-Elegimos una arquitectura por capas porque se enfoca en la distribución de roles y responsabilidades de forma jerárquica, además provee una forma muy efectiva de 
-separación de responsabilidades.
+Elegimos una arquitectura combinada spaced-baced y por capas. Estas dos arquitecturas se complementan perfectamente para el desarrollo del sistema ITAMPropone, ya que las desventajas de una son ventajas de la otra.
+La arquitectura space-based ofrecerá alta agilidad, fácil despliegue, alta escalabilidad y alto desempeño. La arquitectura por capas ofrecerá facilidad para probar y desarrollar el producto.
+En específico, las características que ofrecerá nuestra arquitectura combinada son las siguientes:
+- Agilidad: se trabajará en unidades de procesamiento que permitirán el funcionamiento rápido y adaptable. 
+- Despliegue: el fácil despliegue de la arquitectura space-based permitirá que se el sistema se despliegue las veces necesarias sin tener problemas. Esto es muy importante en la arquitectura del sistema por la necesida de edsplegar cada vez que se genera un voto.
+- Desempeño: el alto desempeño de la arquitectura space-based contrarrestará el bajo desempeño de la arquitectura por capas, pues los mecanismos de almacenamiento de memoria y acceso serán controlados.
+- Pruebas: gracias a la arquitectura por capas las el producto será fácil de probar. Esta arquitectura permitirá simular el funcionamiento de capas específicas sin tener que probar el sistema completo.
+- Escalabilidad: los módulos de la arquitectura space-based permitirán la escalabilidad que no se logra con la arquitectura por capas. Se trabajará con unidades funcionales que no dependen de las otras para funcionar. 
+- Desarrollo: la arquitectura por capas es la más utilizada por su facilidad de desarrollo.
 
-Por ejemplo, una aplicación web típica está compuesta por una capa de presentación (funcionalidad relacionada con la interfaz de usuario), una capa de negocios (procesamiento de reglas de negocios) y una capa de datos (funcionalidad relacionada con el acceso a datos). Aplicaciones web Corporativas y sitios Web son ejemplos de esta arquitectura.
+Una aplicación web típica está compuesta por una capa de presentación (funcionalidad relacionada con la interfaz de usuario), una capa de negocios (procesamiento de reglas de negocios) y una capa de datos (funcionalidad relacionada con el acceso a datos). Aplicaciones web Corporativas y sitios Web son ejemplos de esta arquitectura.
 
 ## Metodología
 
 Implementamos la metodología AGILE porque utiliza periodos cortos de desarrollo llamado Sprints. Este enfoque permite hacer alteraciones para adaptarse conforme avanza el proyecto. 
+Las características por las que elegimos estas metodología sn las siguientes:
+- Adaptablidad y cambio de enfoque: esta metodología responde a los cambios de una manera favorable. Con un proyecto ITAMPropone el cambio es inevitable, entonces se necesita una metodología que responda y se adapte al proceso del proyecto. 
+- Comunicación directa: la metodología AGILE permitirá que la comunicación entre los integrantes del equipo sea natural y transparente. Esto es muy necesario en nuestro caso por la reducida cantidad de integrantes del equipo.
+- Perfeccionamiento: la arquitectura AGILE va a permitir que se mejore el producto y con esto perfeccionar la calidad, completar los objetivos, actualizar las funcionalidades y sacar nuevas versiones del producto.
 
 ## Código
 
