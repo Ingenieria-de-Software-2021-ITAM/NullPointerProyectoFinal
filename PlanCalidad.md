@@ -115,7 +115,7 @@ El encargado de cada tarea es:
 - Definir riesgos: Jorge 
 - Seleccionar requerimientos a checar y requerimientos que no seran checados: Elisa
 - Definicion de estrategia general: Victor 
--Asegurarse de que todos los elementos de las pruebas sean correctos: Karen
+- Asegurarse de que todos los elementos de las pruebas sean correctos: Karen
 
 ## 16.Itinerario <a name="Itinerario"></a>
 La definicion de las pruebas se realizara antes del 26 de noviembre 
