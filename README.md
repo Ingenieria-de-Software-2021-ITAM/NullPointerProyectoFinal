@@ -39,8 +39,10 @@ Las características por las que elegimos estas metodología sn las siguientes:
 - Perfeccionamiento: la arquitectura AGILE va a permitir que se mejore el producto y con esto perfeccionar la calidad, completar los objetivos, actualizar las funcionalidades y sacar nuevas versiones del producto.
 
 ## Casos de uso
+
 - [Caso de uso para inicio de sesión](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso.png)
 - [Caso de uso para proponer un proyecto](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso%202.png)
+- [Caso de uso para votar por un proyecto](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso%203.png)
 
 ## Código
 
