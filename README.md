@@ -7,9 +7,17 @@ Las votaciones por los proyectos que a les estudiantes les interesan se manejan 
 
 # Especificación de requerimientos de software
 
-El documento de especificación de requerimientos de software con 3 casos de uso por requerimiento se encuentra en el siguiente enlace:
+El documento de especificación de requerimientos de software se encuentra en el siguiente enlace:
 [Requerimientos de software para ITAMPropone](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/SoftwareRequirementsSpecificationITAMPropone.md)
+[3 casos de uso](#casos)
 Los apartados que no se encuentran en el documento de especificación de requerimientos de software se descartaron debido a que la versión actual del producto se encuentra en la fase de prototipo.
+
+
+## Casos de uso <a name="casos"></a> 
+
+- [Caso de uso para inicio de sesión](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso.png)
+- [Caso de uso para proponer un proyecto](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso%202.png)
+- [Caso de uso para votar por un proyecto](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso%203.png)
 
 ## Plan de Calidad
 
@@ -38,11 +46,6 @@ Las características por las que elegimos estas metodología sn las siguientes:
 - Comunicación directa: la metodología AGILE permitirá que la comunicación entre los integrantes del equipo sea natural y transparente. Esto es muy necesario en nuestro caso por la reducida cantidad de integrantes del equipo.
 - Perfeccionamiento: la arquitectura AGILE va a permitir que se mejore el producto y con esto perfeccionar la calidad, completar los objetivos, actualizar las funcionalidades y sacar nuevas versiones del producto.
 
-## Casos de uso
-
-- [Caso de uso para inicio de sesión](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso.png)
-- [Caso de uso para proponer un proyecto](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso%202.png)
-- [Caso de uso para votar por un proyecto](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso%203.png)
 
 ## Código
 
@@ -58,4 +61,4 @@ https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a
 
 ## Propuesta económica
 
-Para lograr un balance entre el alcance, tiempo y costo de nuestro proyecto, realizamos la siguiente[Propuesta económica para ITAMPropone](https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0)
+Para lograr un balance entre el alcance, tiempo y costo de nuestro proyecto realizamos la siguiente [Propuesta económica para ITAMPropone](https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0)
