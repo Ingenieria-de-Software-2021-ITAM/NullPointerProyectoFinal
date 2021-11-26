@@ -112,13 +112,8 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   ITAMPropone está desarrollado como prototipo en el ambiente de desarrollo https://moqups.com. Tanto el diseño como la implementación están en la fase de prototipo y dependen en su totalidad del sistema en el que se están desarrollando. 
   
   ### 2.6 Documentación de usuario
-  
-  La guía para la visualización del prototipo del sistema ITAMPropone es la siguiente.
-  1. Verificar que se cuenta con una conexión de internet estable.
-  2. Ingresar a https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/ad64222d5#
-  3. Navegar por el prototipo con los botones que aparecen en pantalla. 
 
-  El documento de replicación del sistema se encuentra en: 
+  El documento de replicación del sistema se encuentra en: https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/ProyectoFinalNullPointer.md#documentación-para-replicar
   
   ### 2.7 Suposiciones y dependencias
   
@@ -228,7 +223,14 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
 ## 5. Otros requerimientos
 
   ### 5.1 Requerimientos de desempeño
+  
+  ITAMPropone requiere de un equipo con conexión estable a internet que soporte la herramienta de prototipado https://moqups.com, así como el enlace para visualizar la versión actual (https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a)
+  
   ### 5.2 Requerimientos de seguridad
+  
+  Para asegurar que ninguno de los usuarios que visualizan el prototipo de ITAMPropone los desarrolladores sugieren a los usuarios conectarse a una red segura y leer los términos y condiciones del entorno de desarrollo https://moqups.com en el que se manejó el sistema. 
+  
   ### 5.3 Calidad de software
   
-
+  ITAMPropone ofrece a sus usuarios un ambiente simple, eficiente e intuitivo. Las interfaces de ITAMPropone están diseñadas para ser autoexplicativas, tanto para usuarios generales como para administradores. ITAMPropone cumple con todos los requerimientos funcionales, de desempeño, de seguridad y de calidad que se solicitaron en el proyecto final del curso de Ingeniería de Software del Instituto Tecnológico Autónomo de México. 
+  
