@@ -6,10 +6,17 @@ Autores:
 - Espinosa Elisa
 - Ortiz Jorge
 ---
----
+--- 
 Versión 1.0
+--- 
 Noviembre 2021
 ---
+## Tabla de contenidos
+  1. [Introducción](#introduccion)
+  2. [Descripción general](#descripcion-general)
+  3. [Requerimientos de interfaz externa](#requerimientos-de-interfaz-externa)
+  4. [Requerimientos de software](#requerimientos-de-software)
+  5. [Otros requerimientos](#otros-requerimientos)
 
 ## 1. Introducción
   ### 1.1 Objetivo
@@ -228,9 +235,23 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   
   ### 5.2 Requerimientos de seguridad
   
-  Para asegurar que ninguno de los usuarios que visualizan el prototipo de ITAMPropone los desarrolladores sugieren a los usuarios conectarse a una red segura y leer los términos y condiciones del entorno de desarrollo https://moqups.com en el que se manejó el sistema. 
+  Para asegurar que ninguno de los usuarios que visualizan el prototipo de ITAMPropone los desarrolladores sugieren a los usuarios conectarse a una red segura y leer los términos y condiciones del entorno de desarrollo https://moqups.com en el que se manejó el sistema. Además, en su versión final, ITAMPropone deberá seguir las pautas de seguirdad de software.   
+  - Autenticación: ITAMPropone implementará la verificación en dos pasos con el correo institucional para validad la identidad de sus usuarios.
+  - Autorización: solo los usuarios con cuenta de administrador podrán realizar las acciones permitidas para los administradores. Las cuentas de usuarios generales tendrán acceso limitado al manejo de los proyectos.
+  - Confidencialidad: como ITAMPropone maneja información sensible del usuario, tendrá como prioridad la privacidad del derecho a ejercer el voto. Esto se logrará a traves de una desvinculación entre el usuario y el voto ejercido. Es decir, el registro de los votos no proporcionarán información alguna sobre el usuario que ejerció el voto. 
+  - Integridad: ITAMPropone será fiel a los datos. Esto se logrará a través de un algoritmo preciso de conteo de votos en el que el voto del usuario cuente una sola vez para cada proyecto. 
+  - Disponibilidad: ITAMPropone será accesible para toda la comunidad ITAM que cuente con su correo institucional. Las versiones posteriores se harán públicas, así como las actualizaciones en requerimientos y funcionalidades. Todos los usuarios que utilicen ITAMPropone tendrán acceso a todas las funcionalidades del sistema para las que tengan permiso.
+  - Rendición de cuentas: ITAMPropone tendrá u registro detallado de las acciones que realizan los usuarios a través de sus logins. Con esto, podrá garantizar el buen uso del sistema y reportar aquellas cuentas que falten a las políticas.
   
   ### 5.3 Calidad de software
   
-  ITAMPropone ofrece a sus usuarios un ambiente simple, eficiente e intuitivo. Las interfaces de ITAMPropone están diseñadas para ser autoexplicativas, tanto para usuarios generales como para administradores. ITAMPropone cumple con todos los requerimientos funcionales, de desempeño, de seguridad y de calidad que se solicitaron en el proyecto final del curso de Ingeniería de Software del Instituto Tecnológico Autónomo de México. 
+  ITAMPropone ofrece a sus usuarios un ambiente simple, eficiente e intuitivo. Las interfaces de ITAMPropone están diseñadas para ser autoexplicativas, tanto para usuarios generales como para administradores. ITAMPropone cumple con todos los requerimientos funcionales, de desempeño, de seguridad y de calidad que se solicitaron en el proyecto final del curso de Ingeniería de Software del Instituto Tecnológico Autónomo de México.
+  ITAMPropone garantiza un software de calidad, ya que sigue los principios:
+  - Exactitud: ITAMPropone compartirá el resultado de sus estadísticas y votaciones de acuerdo con los datos recaudados.
+  - Adaptabilidad: ITAMPropone será accesible para toda la comunidad ITAM.
+  - Mantenibilidad: ITAMPropone será manejado por los usuarios administradores, quienes serán capacitados para mantener el software.
+  - Disponibilidad: ITAMPropone estará disponible para toda la comunidad ITAM en semestres de Primavera y Otoño.
+  - Usabilidad: el diseño intuitivo de ITAMPropone estará dirigido a una experiencia de usuario.
+  - Reusabilidad: ITAMPropone permitirá las propuestas de todos los proyectos que la comunidad ITAM quiera aportar. La eliminación de las propuestas estará sujeta a la administración.
+
   
