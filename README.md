@@ -100,22 +100,28 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
 
 ###  3.2 Pantalla "Página principal" 
 
-![página principal](https://user-images.githubusercontent.com/47927104/143373719-a88feed7-531b-4c80-868f-66b570197732.png)
+![página principal](https://user-images.githubusercontent.com/47927104/143512608-333011ae-c7df-4ba3-a37b-81cfcda3fc09.png)
 
-###  3.3 Pantalla "Proponer proyecto" (Al presionar enviar, aparece un mensaje de proyecto enviado correctamente)
+###  3.3 Pantalla "Página principal" 
+
+![página principal-admin](https://user-images.githubusercontent.com/47927104/143512610-7d9dbf24-cc9a-402f-8b45-ca35e8a03bb8.png)
+
+###  3.4 Pantalla "Proponer proyecto" (Al presionar enviar, aparece un mensaje de proyecto enviado correctamente)
 
 ![proponer](https://user-images.githubusercontent.com/47927104/143509497-3efa3db2-0c4d-45ea-a09c-3fd0edd5d284.png)
 
-
-###  3.4 Pantalla "Votar por proyectos" (Al votar por un proyecto, aparece otro proyecto)
+###  3.5 Pantalla "Votar por proyectos" (Al votar por un proyecto, aparece otro proyecto)
 
 ![votar](https://user-images.githubusercontent.com/47927104/143510044-e73c8b71-2370-42cb-92d7-76fac376edfb.png)
 ![votar2](https://user-images.githubusercontent.com/47927104/143510048-a0e9241b-1354-46d9-a3c7-023b49cef448.png)
 
-###  3.5 Pantalla "Propuestas populares" (Aparecen las propuestas populares. Además, puedes buscar las propuestas por nombre, autor, descripción, etc)
+###  3.6 Pantalla "Propuestas populares" (Aparecen las propuestas populares. Además, puedes buscar las propuestas por nombre, autor, descripción, etc)
 
 ![propuestas](https://user-images.githubusercontent.com/47927104/143509731-11628dc9-951f-4a60-89e8-f2eee5531ab0.png)
 
+###  3.7 Pantalla "Eliminar proyectos" 
+
+![verproyectos](https://user-images.githubusercontent.com/47927104/143512611-03069dc9-b83b-4fd6-8915-6b39d7d63fe9.png)
 
 ## 4. Software Requirements
 Poner 3 casos de uso por requirement
