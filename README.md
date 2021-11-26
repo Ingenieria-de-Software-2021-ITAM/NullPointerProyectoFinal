@@ -38,6 +38,9 @@ Las características por las que elegimos estas metodología sn las siguientes:
 - Comunicación directa: la metodología AGILE permitirá que la comunicación entre los integrantes del equipo sea natural y transparente. Esto es muy necesario en nuestro caso por la reducida cantidad de integrantes del equipo.
 - Perfeccionamiento: la arquitectura AGILE va a permitir que se mejore el producto y con esto perfeccionar la calidad, completar los objetivos, actualizar las funcionalidades y sacar nuevas versiones del producto.
 
+## Casos de uso
+- [Caso 1](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/Caso%20de%20uso.png)
+
 ## Código
 
 El prototipo del preyecto ITAMPropone se encuentre en el siguiente enlace:
