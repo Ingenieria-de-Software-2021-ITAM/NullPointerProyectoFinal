@@ -93,11 +93,35 @@ cumpla con todos los requerimientos, manteniendo como mentalidad el  “qué esp
 En caso de surgir algun error que pueda llevar a fallo la pagina, suspenderemos las pruebas y regresaremos a trabajar en el codigo. De igual manera, si en las pruebas de usuario mas del 20% de los usuarios se toman mas de 15 min en subir un proyecto, declararemos que el sistema no es intuitivo y tendremos que generar otra version. 
 
 ## 11.Pruebas entregables <a name="Pruebas"></a>
+
+- Documento del plan de calidad
+- Casos de prueba
+- Especificaciones del diseño de las pruebas
+
+
 ## 12.Tareas de pueba pendientes <a name="Tareas"></a>
+- Bitacora de errores y bitacora de ejecucion
+- Reporte sobre problemas y medidas a implementar 
+
 ## 13.Necesidades del ambiente <a name="ambiente"></a>
+Debemos de realizar al menos 6 pruebas de usuario miediendo el tiempo que les toma realizar cada tares y si es que necesitan ayuda para lograr su objetivo 
+
 ## 14.Necesidades de entrenamiento y staff <a name="entrenamiento"></a>
+Entrenamiento para todos los integrantes del equipo para utilizar moqups correctamente
+Todos los miembros del equipo seran responsables de realizar pruebas de usuario y de realizar las pruebas definididas
+
 ## 15.Responsibilidades <a name="Responsibilidades"></a>
+El encargado de cada tarea es:
+- Definir riesgos: Jorge 
+- Seleccionar requerimientos a checar y requerimientos que no seran checados: Elisa
+- Definicion de estrategia general: Victor 
+-Asegurarse de que todos los elementos de las pruebas sean correctos: Karen
+
 ## 16.Itinerario <a name="Itinerario"></a>
+La definicion de las pruebas se realizara antes del 26 de noviembre 
+Las pruebas de usuario estaran listas para el 27 de noviembre del 2021
+La correccion de errores se terminará el 6 de diciembre 
+
 ## 17.Riesgos de planeacion <a name="Riesgos"></a>
 ## 18.Aprobaciones <a name="Aprobaciones"></a>
 ## 19.Glosario <a name="Glosario"></a>
