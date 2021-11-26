@@ -12,13 +12,13 @@ Versión 1.0
 Noviembre 2021
 ---
 ## Tabla de contenidos
-  1. [Introducción](#introducción)
+  1. [Introducción](#introduccion)
   2. [Descripción general](#descripcion-general)
-  3. [Requerimientos de interfaz externa](#requerimientos-de-interfaz-externa)
-  4. [Requerimientos de software](#requerimientos-de-software)
+  3. [Requerimientos de interfaz externa](#requerimientos1)
+  4. [Requerimientos de software](#requerimientos2)
   5. [Otros requerimientos](#otros-requerimientos)
 
-## 1. Introducción
+## 1. Introducción <a name="introduccion"></a>
   ### 1.1 Objetivo
   
   El objetivo de este documento es presentar una descripción detallada del software ITAMPropone. Se explicarán los requerimientos y funcionalidades del software, así como las interfaces, el alcance y las restricciones que presenta el sistema en su versión actual.
@@ -42,7 +42,7 @@ Noviembre 2021
 
   IEEE template for Software Requirement Specification: https://goo.gl/nsUFwy
 
-## 2. Descripción general
+## 2. Descripción general <a name="descripcion-general"></a>
 
   ### 2.1 Perspectiva del producto
   
@@ -111,8 +111,8 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   Usuarios administradores, integrantes de la comunidad ITAM que tienen permiso de manejar los proyectos propuestos. 
   
   ### 2.4 Ambiente de operación
-  
-  Internet 
+
+  En su versión actual de prototipo, el ambiente de operación de ITAMPropone está sujeto al ambiente de operación de la página web https://moqups.com.
   
   ### 2.5 Restricciones de diseño e implementación
   
@@ -126,108 +126,126 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   
   ITAMPropone está desarrollado en el ambiente de prototipado https://moqups.com, por lo que requiere de una conexión estable de internet, así como el enlace para visualizar el prototipo del sistema.
 
-## 3. Requerimientos de interfaz externa
-  ### 3.1 Vista "Inicio de sesión"
+## 3. Requerimientos de interfaz externa <a name="requerimientos1"></a>
 
-![inicio de sesion](https://user-images.githubusercontent.com/47927104/143373730-0b9a6593-d1fe-4048-b5fb-f9e5bc387aeb.png)
+  ### 3.1 Interfaces de Usuario
+  
+   #### 3.1.1 Vista "Inicio de sesión"
 
-###  3.2 Vista "Página principal" 
+   ![inicio de sesion](https://user-images.githubusercontent.com/47927104/143373730-0b9a6593-d1fe-4048-b5fb-f9e5bc387aeb.png)
 
-![página principal](https://user-images.githubusercontent.com/47927104/143512608-333011ae-c7df-4ba3-a37b-81cfcda3fc09.png)
+   ####  3.1.2 Vista "Página principal" 
 
-###  3.3 Vista "Página principal (versión administrador)"
+   ![página principal](https://user-images.githubusercontent.com/47927104/143512608-333011ae-c7df-4ba3-a37b-81cfcda3fc09.png)
 
-![página principal-admin](https://user-images.githubusercontent.com/47927104/143512610-7d9dbf24-cc9a-402f-8b45-ca35e8a03bb8.png)
+  ####  3.1.3 Vista "Página principal (versión administrador)"
 
-###  3.4 Vista "Proponer proyecto" (Al presionar enviar, aparece un mensaje de proyecto enviado correctamente)
+  ![página principal-admin](https://user-images.githubusercontent.com/47927104/143512610-7d9dbf24-cc9a-402f-8b45-ca35e8a03bb8.png)
 
-![proponer](https://user-images.githubusercontent.com/47927104/143509497-3efa3db2-0c4d-45ea-a09c-3fd0edd5d284.png)
+  ####  3.1.4 Vista "Proponer proyecto" (Al presionar enviar, aparece un mensaje de proyecto enviado correctamente)
 
-###  3.5 Vista "Votar por proyectos" (Al votar por un proyecto, aparece otro proyecto)
+  ![proponer](https://user-images.githubusercontent.com/47927104/143509497-3efa3db2-0c4d-45ea-a09c-3fd0edd5d284.png)
 
-![votar](https://user-images.githubusercontent.com/47927104/143510044-e73c8b71-2370-42cb-92d7-76fac376edfb.png)
-![votar2](https://user-images.githubusercontent.com/47927104/143510048-a0e9241b-1354-46d9-a3c7-023b49cef448.png)
+  #### 3.1.5 Vista "Votar por proyectos" (Al votar por un proyecto, aparece otro proyecto)
 
-###  3.6 Vista "Propuestas populares" (Aparecen las propuestas populares. Además, puedes buscar las propuestas por nombre, autor, descripción, etc)
+  ![votar](https://user-images.githubusercontent.com/47927104/143510044-e73c8b71-2370-42cb-92d7-76fac376edfb.png)
+  ![votar2](https://user-images.githubusercontent.com/47927104/143510048-a0e9241b-1354-46d9-a3c7-023b49cef448.png)
 
-![propuestas](https://user-images.githubusercontent.com/47927104/143509731-11628dc9-951f-4a60-89e8-f2eee5531ab0.png)
+  ####  3.1.6 Vista "Propuestas populares" (Aparecen las propuestas populares. Además, puedes buscar las propuestas por nombre, autor, descripción, etc)
 
-###  3.7 Pantalla "Eliminar proyectos" 
+  ![propuestas](https://user-images.githubusercontent.com/47927104/143509731-11628dc9-951f-4a60-89e8-f2eee5531ab0.png)
 
-![verproyectos](https://user-images.githubusercontent.com/47927104/143512611-03069dc9-b83b-4fd6-8915-6b39d7d63fe9.png)
+  ####  3.1.7 Pantalla "Eliminar proyectos" 
 
-## 4. Requerimientos de software
+  ![verproyectos](https://user-images.githubusercontent.com/47927104/143512611-03069dc9-b83b-4fd6-8915-6b39d7d63fe9.png)
 
-### 4.1 Inicio de sesión
+  ### 3.2 Interfaces de hardware
+  
+  ITAMPropone en su versión actual es accesible a cualquier integrante de la comunidad ITAM que posea el enlace de visualización y un navegador web en cualquier dispositivo que soporte la herramienta de desarrollo https://moqups.com hasta la fecha.
+  ITAMPropone, en su versión final, será accesible a la comunidad ITAM a través de cualquier dispositivo que cuente con un navegador de internet.
+  - Computadora de escritorio
+  - Computadora personal
+  - Smartphone
+  - Tablet 
+  - Otros dispositivos con acceso al navegador
+  
+  ### 3.3 Interfaces de software
+  
+  ITAMPropone en su versión actual es accesible a cualquier integrante de la comunidad ITAM que posea el enlace de visualización y un navegador web soporte la herramienta de desarrollo https://moqups.com hasta la fecha.
+  ITAMPropone, en su versión final, será accesible a la comunidad ITAM a través de un navegador web.
 
-#### &emsp; 4.1.1 Descripción y prioridad
+## 4. Requerimientos de software <a name="requerimientos2"></a>
 
- &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM tengan permitido accesar a la página ITAMPropone. Permitir que los administradores tengan acceso permitido a ITAMPropone en su versión de administrador.
+  ### 4.1 Inicio de sesión
 
-#### &emsp; 4.1.2 Secuencia de respuestas
+   #### &emsp; 4.1.1 Descripción y prioridad
 
- &emsp; Para los usuarios generals, querer proponer un proyecto nuevo, poder ver votar por algún proyecto publicado, consultar la popularidad de los proyectos existentes. Para los administradores, poder manejar los proyectos existentes.
+   &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM tengan permitido accesar a la página ITAMPropone. Permitir que los administradores tengan acceso permitido a ITAMPropone en su versión de administrador.
 
-#### &emsp; 4.1.3 Requerimientos funcionales
+   #### &emsp; 4.1.2 Secuencia de respuestas
 
-- REQ-1: El usuario pueda escribir sus credenciales y sean autenticadas.
-- REQ-2: De no ser autenticadas, mandar un mensaje de error.
-- REQ-3: Redirigir al usuario a la versión general o administrador según los permisos que tenga.
+  &emsp; Para los usuarios generals, querer proponer un proyecto nuevo, poder ver votar por algún proyecto publicado, consultar la popularidad de los proyectos existentes. Para los administradores, poder manejar los proyectos existentes.
 
-### 4.2 Publicar proyectos
+   #### &emsp; 4.1.3 Requerimientos funcionales
 
-#### &emsp; 4.2.1 Descripción y prioridad
+  - REQ-1: El usuario pueda escribir sus credenciales y sean autenticadas.
+  - REQ-2: De no ser autenticadas, mandar un mensaje de error.
+  - REQ-3: Redirigir al usuario a la versión general o administrador según los permisos que tenga.
 
- &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM escriban y publiquen un posible proyecto. 
+  ### 4.2 Publicar proyectos
 
-#### &emsp; 4.2.2 Secuencia de respuestas
+   #### &emsp; 4.2.1 Descripción y prioridad
 
- &emsp; Querer proponer una idea innovadora que ayude a la comunidad itamita.
+  &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM escriban y publiquen un posible proyecto. 
 
-#### &emsp; 4.2.3 Requerimientos funcionales
+   #### &emsp; 4.2.2 Secuencia de respuestas
 
-- REQ-1: Poder escribir el nombre del proyecto.
-- REQ-2: Asignar automáticamente al autor del proyecto.
-- REQ-3: Escribir el contenido del proyecto.
-- REQ-4: Al presionar enviar, guardar toda la información (autor, nombre del proyecto y contenido) del nuevo proyecto en la base de datos.
-- REQ-5: Agregar palabras clave sobre el contenido del texto (tema).
-- REQ-6: No permitir enviar una propuesta con menos de 20 caracteres.
-- REQ-7: Añadir imágenes.
+  &emsp; Querer proponer una idea innovadora que ayude a la comunidad itamita.
 
-### 4.3 Votar por proyectos
+   #### &emsp; 4.2.3 Requerimientos funcionales
 
-#### &emsp; 4.3.1 Descripción y prioridad
+  - REQ-1: Poder escribir el nombre del proyecto.
+  - REQ-2: Asignar automáticamente al autor del proyecto.
+  - REQ-3: Escribir el contenido del proyecto.
+  - REQ-4: Al presionar enviar, guardar toda la información (autor, nombre del proyecto y contenido) del nuevo proyecto en la base de datos.
+  - REQ-5: Agregar palabras clave sobre el contenido del texto (tema).
+  - REQ-6: No permitir enviar una propuesta con menos de 20 caracteres.
+  - REQ-7: Añadir imágenes.
 
- &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM observen y/o voten las propuestas de les otres miembres de la comunidad. 
+  ### 4.3 Votar por proyectos
 
-#### &emsp; 4.3.2 Secuencia de respuestas
+   #### &emsp; 4.3.1 Descripción y prioridad
 
- &emsp; Votar por una propueta interesante. Observar las posibles propuestas que la comunidad está teniendo. Observar si alguna propuesta propia tiene popularidad. 
+  &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM observen y/o voten las propuestas de les otres miembres de la comunidad. 
 
-#### &emsp; 4.3.3 Requerimientos funcionales
+   #### &emsp; 4.3.2 Secuencia de respuestas
 
-- REQ-1: Al votar por un proyecto, eliminar la opción de volver a votar, para evitar múltiples votos.
-- REQ-2: Si no votas por el proyecto, no debe aparecer de nuevo en feed de votaciones. A menos que el usuario decida regresar al proyecto anterior.
-- REQ-3: Poder leer las descripciones de los proyectos y ver las imágenes. 
-- REQ-4: Poder darle un valor especial a ese proyecto, en caso de que le encante al usuario. 
+  &emsp; Votar por una propueta interesante. Observar las posibles propuestas que la comunidad está teniendo. Observar si alguna propuesta propia tiene popularidad. 
 
-### 4.4 Eliminar proyectos
+   #### &emsp; 4.3.3 Requerimientos funcionales
 
-#### &emsp; 4.4.1 Descripción y prioridad
+  - REQ-1: Al votar por un proyecto, eliminar la opción de volver a votar, para evitar múltiples votos.
+  - REQ-2: Si no votas por el proyecto, no debe aparecer de nuevo en feed de votaciones. A menos que el usuario decida regresar al proyecto anterior.
+  - REQ-3: Poder leer las descripciones de los proyectos y ver las imágenes. 
+  - REQ-4: Poder darle un valor especial a ese proyecto, en caso de que le encante al usuario. 
 
- &emsp; Prioridad baja. Permitir que alguna propuesta sea eliminada por algún ejecutivo porque ya se cumplió y eliminar las propuestas menos populares después de cierto tiempo. 
+  ### 4.4 Eliminar proyectos
 
-#### &emsp; 4.4.2 Secuencia de respuestas
+   #### &emsp; 4.4.1 Descripción y prioridad
+
+  &emsp; Prioridad baja. Permitir que alguna propuesta sea eliminada por algún ejecutivo porque ya se cumplió y eliminar las propuestas menos populares después de cierto tiempo. 
+
+   #### &emsp; 4.4.2 Secuencia de respuestas
 
  &emsp; Alguna propuesta se volvió obsoleta porque ya se cumplió o no tiene popularidad. Liberar espacio en la base de datos. 
 
-#### &emsp; 4.4.3 Requerimientos funcionales
+   #### &emsp; 4.4.3 Requerimientos funcionales
 
-- REQ-1: Revisar que las propuestas con la popularidad (menos del 10% de la comunidad) más baja tengan menos de 1 semestre de antigüedad. Las que no cumplan con este enunciado, serán eliminadas. 
-- REQ-2: Poder eliminar alguna propuesta a voluntad.
-- REQ-3: Eliminar todos los datos existentes sobre la propuesta. 
+  - REQ-1: Revisar que las propuestas con la popularidad (menos del 10% de la comunidad) más baja tengan menos de 1 semestre de antigüedad. Las que no cumplan con este enunciado, serán eliminadas. 
+  - REQ-2: Poder eliminar alguna propuesta a voluntad.
+  - REQ-3: Eliminar todos los datos existentes sobre la propuesta. 
 
-## 5. Otros requerimientos
+## 5. Otros requerimientos <a name="otros-requerimientos"></a>
 
   ### 5.1 Requerimientos de desempeño
   
