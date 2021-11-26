@@ -48,9 +48,38 @@ Version 1.0 del Master Plan
 Para garantizar que la pagina ITAMPropone cuente con todos los requerimientos de calidad, se seguira este plan de calidad, el cual es nuestro MAster Plan. Se busca garantizar la confidencialidad de nuestros usuarios mientras se guarda la integridad. Implementaremos medidas que fomenten la disponibilidad a la par de medidas que aseguren la autenticación del usuario. Haremos pruebas para medir y mejorar la fiabilidad y rendimiento de nuestra pagina. Finalmente  cuidaremos que nuestro software sea facil de mantener y entregar, elementos vitales para obtener un producto de calidad. 
 
 ## 4.Objetos de Prueba <a name="Objetos"></a>
+- Inicio de sesion correcto, tanto para administradores como para usuarios
+- Redireccion apropiada entre las paginas 
+- Registro de proyectos con datos e imagenes efectivo
+- Registro de votos exitoso
+- Vista y analisis de datos certeros e intuitivos 
+- 
 ## 5.Eventos de riesgo del software <a name="Eventos-de-riesgo"></a>
+Las areas criticas que encontramos que debemos probar son: 
+- Adaptabilidad a distintos navegadores web y distintos dispositivos
+- Funciones complejas de autenticacion de usuarios 
+- Documentacion cuidadosa de todo el codigo
+- Implementacion de nuevas herramientas para hacer mas responsiva la página 
+
+Los riesgos inherentes del software que tenemos que cuidar son: 
+- Regulaciones escolares 
+- Impacto en los alumnos 
+- Seguridad
+
 ## 6.Funcionalidades a probar <a name="Funcionalidades"></a>
+- Ingreso a la pagina
+- Dar de alta un proyecto 
+- Editar mis proyectos 
+- Votar por mis proyectos favoritos
+- Rechazar los proyectos que no me llamen la atencion 
+- Buscar proyectos que ya haya visto con anterioridad
+
 ## 7.Funcionalidades que no se probaran <a name="Funcionalidades-no"></a>
+- Enviar mensaje al creador del proyecto 
+- Dejar comentarios en los proyectos para que otros usuarios los puedan ver 
+- Ver cuantos likes ha recibido un proyecto 
+- Incluir videos en la descripción del proyecto
+-  
 ## 8.Acercamiento <a name="Acercamiento"></a>
 ## 9.Criterios de eventos exitosos o fallidos <a name="Criterios"></a>
 ## 10.Suspension de criterios y requerimientos para continuar <a name="Suspension"></a>
