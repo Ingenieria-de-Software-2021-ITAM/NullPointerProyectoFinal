@@ -13,7 +13,8 @@ Los apartados que no se encuentran en el documento de especificación de requeri
 
 ## Plan de Calidad
 
-Para garantizar que nuestro software opere como se espera de este y lograr que sea facil de entender y mantener, creamos y seguimos un [Plan de Calidad para ITAMPropone](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/PlanCalidad.md#plan-de-calidad-para-itampropone).
+Para garantizar que la pagina ITAMPropone cuente con todos los requerimientos de calidad, se seguira este [Plan de Calidad](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/PlanCalidad.md#plan-de-calidad-para-itampropone). Se busca guardar la confidencialidad de nuestros usuarios mientras se guarda la integridad. Implementaremos medidas que fomenten la disponibilidad a la par de medidas que aseguren la autenticación del usuario. Haremos pruebas para medir y mejorar la fiabilidad y rendimiento de nuestra pagina. Finalmente  cuidaremos que nuestro software sea facil de mantener y entregar, elementos vitales para obtener un producto de calidad.
+
 
 ## Arquitectura
 
