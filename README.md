@@ -63,3 +63,8 @@ https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a
 ## Propuesta económica
 
 Para lograr un balance entre el alcance, tiempo y costo de nuestro proyecto realizamos la siguiente [Propuesta económica para ITAMPropone](https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0)
+
+## Presentación del proyecto
+
+En el siguiente documento se explican los elementos fundamentales de nuestro producto, el proceso de creación desde la metodología y los conocimientos generados durante el proyecto.
+[Presentación de ITAMPropone](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/ITAMProponePresentacion.pdf)
