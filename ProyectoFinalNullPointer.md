@@ -8,7 +8,7 @@ Las votaciones por los proyectos que a les estudiantes les interesan se manejan 
 # Especificación de requerimientos de software
 
 El documento de especificación de requerimientos de software con 3 casos de uso por requerimiento se encuentra en el siguiente enlace:
-https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/SoftwareRequirementsSpecificationITAMPropone.md
+[Requerimientos de software para ITAMPropone](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/SoftwareRequirementsSpecificationITAMPropone.md)
 
 ## Plan de Calidad
 
@@ -37,4 +37,4 @@ https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a
 
 ## Propuesta económica
 
-https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0
+[Propuesta económica para ITAMPropone](https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0)
