@@ -9,11 +9,11 @@ Las votaciones por los proyectos que a les estudiantes les interesan se manejan 
 
 El documento de especificación de requerimientos de software se encuentra en el siguiente enlace:
 [Requerimientos de software para ITAMPropone](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/SoftwareRequirementsSpecificationITAMPropone.md).
+
 Los casos de uso de los requerimientos se encuentran en:
 [3 casos de uso](#casos)
+
 Los apartados que no aparecen en el documento de especificación de requerimientos de software se descartaron debido a que la versión actual del producto se encuentra en la fase de prototipo.
-
-
 
 ## Casos de uso <a name="casos"></a> 
 
@@ -47,7 +47,6 @@ Las características por las que elegimos estas metodología sn las siguientes:
 - Adaptablidad y cambio de enfoque: esta metodología responde a los cambios de una manera favorable. Con un proyecto ITAMPropone el cambio es inevitable, entonces se necesita una metodología que responda y se adapte al proceso del proyecto. 
 - Comunicación directa: la metodología AGILE permitirá que la comunicación entre los integrantes del equipo sea natural y transparente. Esto es muy necesario en nuestro caso por la reducida cantidad de integrantes del equipo.
 - Perfeccionamiento: la arquitectura AGILE va a permitir que se mejore el producto y con esto perfeccionar la calidad, completar los objetivos, actualizar las funcionalidades y sacar nuevas versiones del producto.
-
 
 ## Código
 
