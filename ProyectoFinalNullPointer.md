@@ -5,6 +5,11 @@ Elisa Espinosa, Jorge Ortiz, Karen Arteaga y Victor Castillejos
 ITAMPropone es una aplicación para proponer proyectos al ITAM en dónde les alumnes pueden votar por los mejores proyectos.
 Las votaciones por los proyectos que a les estudiantes les interesan se manejan de la siguiente forma. En la pantalla de votaciones aparece una tabla con el nombre y la descripción de cada proyecto. Además, aparece la opción de votar por los proyectos que te gusten, pero solo permite votar una vez por cada uno. 
 
+# Especificación de requerimientos de software
+
+El documento de especificación de requerimientos de software con 3 casos de uso por requerimiento se encuentra en el siguiente enlace:
+https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/SoftwareRequirementsSpecificationITAMPropone.md
+
 ## Plan de Calidad
 
 ## Arquitectura
@@ -20,9 +25,15 @@ Implementamos la metodología AGILE porque utiliza periodos cortos de desarrollo
 
 ## Código
 
+El prototipo del preyecto ITAMPropone se encuentre en el siguiente enlace:
 https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a
 
 ## Documentación para replicar
+
+  La guía para la visualización del prototipo del sistema ITAMPropone es la siguiente.
+  1. Verificar que se cuenta con una conexión de internet estable.
+  2. Ingresar al enlace: https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/ad64222d5#
+  3. Navegar por el prototipo con los botones que aparecen en pantalla.
 
 ## Propuesta económica
 
