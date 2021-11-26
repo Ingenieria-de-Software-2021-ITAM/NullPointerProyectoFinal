@@ -32,27 +32,27 @@ Noviembre 2021
 19) [Glosario](#Glosario)
 
 
-## 1. Identificador de plan de calidad <a name="identificador"></a>
+## 1.Identificador de plan de calidad <a name="identificador"></a>
 Version 1.0 del Master Plan
 
-## 2. Referencias <a name="Referencias"></a>
+## 2.Referencias <a name="Referencias"></a>
 [ITAMPropone prototipo (versión actual)](https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a)
 
 [Repositorio en GitHub](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointer-Markdown)
 
 [Formato del plan de calidad](https://jmpovedar.files.wordpress.com/2014/03/ieee-829.pdf)
 
-## 3. Introduccion <a name="Introduccion"></a>
+## 3.Introduccion <a name="Introduccion"></a>
 Para garantizar que la pagina ITAMPropone cuente con todos los requerimientos de calidad, se seguira este plan de calidad, el cual es nuestro MAster Plan. Se busca garantizar la confidencialidad de nuestros usuarios mientras se guarda la integridad. Implementaremos medidas que fomenten la disponibilidad a la par de medidas que aseguren la autenticación del usuario. Haremos pruebas para medir y mejorar la fiabilidad y rendimiento de nuestra pagina. Finalmente  cuidaremos que nuestro software sea facil de mantener y entregar, elementos vitales para obtener un producto de calidad. 
 
-## 4. Objetos de Prueba <a name="Objetos"></a>
+## 4.Objetos de Prueba <a name="Objetos"></a>
 - Inicio de sesion correcto, tanto para administradores como para usuarios
 - Redireccion apropiada entre las paginas 
 - Registro de proyectos con datos e imagenes efectivo
 - Registro de votos exitoso
 - Vista y analisis de datos certeros e intuitivos 
 
-## 5. Eventos de riesgo del software <a name="Eventos-de-riesgo"></a>
+## 5.Eventos de riesgo del software <a name="Eventos-de-riesgo"></a>
 Las areas criticas que encontramos que debemos probar son: 
 - Adaptabilidad a distintos navegadores web y distintos dispositivos
 - Funciones complejas de autenticacion de usuarios 
@@ -64,7 +64,7 @@ Los riesgos inherentes del software que tenemos que cuidar son:
 - Impacto en los alumnos 
 - Seguridad
 
-## 6. Funcionalidades a probar <a name="Funcionalidades"></a>
+## 6.Funcionalidades a probar <a name="Funcionalidades"></a>
 - Ingreso a la pagina
 - Dar de alta un proyecto 
 - Editar mis proyectos 
@@ -72,56 +72,66 @@ Los riesgos inherentes del software que tenemos que cuidar son:
 - Rechazar los proyectos que no me llamen la atencion 
 - Buscar proyectos que ya haya visto con anterioridad
 
-## 7. Funcionalidades que no se probaran <a name="Funcionalidades-no"></a>
+## 7.Funcionalidades que no se probaran <a name="Funcionalidades-no"></a>
 - Enviar mensaje al creador del proyecto 
 - Dejar comentarios en los proyectos para que otros usuarios los puedan ver 
 - Ver cuantos likes ha recibido un proyecto 
 - Incluir videos en la descripción del proyecto
  
-## 8. Acercamiento <a name="Acercamiento"></a>
+## 8.Acercamiento <a name="Acercamiento"></a>
 Para realizar nuestras pruebas utilizaremos Manual testing para checar que el software
 cumpla con todos los requerimientos, manteniendo como mentalidad el  “qué esperaría el cliente que pase sí hace x o y”. Tambien utilizaremos dinamicos pues creemos que asi priorizaremos al cliente, ya que recibira lo que se esperaba del software. Finalmente utilizaremos Black Box Testing para realizar pruebas de usuarios que nos indiquen si la aplicacion es intuitiva y responsiva en esenarios lo mas parecidos a cuando se publique la pagina. 
 
-## 9. Criterios de eventos exitosos o fallidos <a name="Criterios"></a>
+## 9.Criterios de eventos exitosos o fallidos <a name="Criterios"></a>
 - Haber realizado todas las pruebas ya programadas
 - Tener un exito del 95 % 
 -  Ningun error de codigo mediano con soluciones rapidas o que pueda llevar proximamente al fallo de la pagina 
 
-## 10. Suspension de criterios y requerimientos para continuar <a name="Suspension"></a>
+## 10.Suspension de criterios y requerimientos para continuar <a name="Suspension"></a>
 En caso de surgir algun error que pueda llevar a fallo la pagina, suspenderemos las pruebas y regresaremos a trabajar en el codigo. De igual manera, si en las pruebas de usuario mas del 20% de los usuarios se toman mas de 15 min en subir un proyecto, declararemos que el sistema no es intuitivo y tendremos que generar otra version. 
 
-## 11. Pruebas entregables <a name="Pruebas"></a>
+## 11.Pruebas entregables <a name="Pruebas"></a>
 
 - Documento del plan de calidad
 - Casos de prueba
 - Especificaciones del diseño de las pruebas
 
-## 12. Tareas de pueba pendientes <a name="Tareas"></a>
+## 12.Tareas de pueba pendientes <a name="Tareas"></a>
 - Bitacora de errores y bitacora de ejecucion
 - Reporte sobre problemas y medidas a implementar 
 
-## 13. Necesidades del ambiente <a name="ambiente"></a>
+## 13.Necesidades del ambiente <a name="ambiente"></a>
 Debemos de realizar al menos 6 pruebas de usuario miediendo el tiempo que les toma realizar cada tares y si es que necesitan ayuda para lograr su objetivo 
 
-## 14. Necesidades de entrenamiento y staff <a name="entrenamiento"></a>
+## 14.Necesidades de entrenamiento y staff <a name="entrenamiento"></a>
 Entrenamiento para todos los integrantes del equipo para utilizar moqups correctamente
 Todos los miembros del equipo seran responsables de realizar pruebas de usuario y de realizar las pruebas definididas
 
-## 15. Responsibilidades <a name="Responsibilidades"></a>
+## 15.Responsibilidades <a name="Responsibilidades"></a>
 El encargado de cada tarea es:
 - Definir riesgos: Jorge 
 - Seleccionar requerimientos a checar y requerimientos que no seran checados: Elisa
 - Definicion de estrategia general: Victor 
 - Asegurarse de que todos los elementos de las pruebas sean correctos: Karen
 
-## 16. Itinerario <a name="Itinerario"></a>
+## 16.Itinerario <a name="Itinerario"></a>
 La definicion de las pruebas se realizara antes del 26 de noviembre 
 Las pruebas de usuario estaran listas para el 27 de noviembre del 2021
 La correccion de errores se terminará el 6 de diciembre 
 
-## 17. Riesgos de planeacion <a name="Riesgos"></a>
-## 18. Aprobaciones <a name="Aprobaciones"></a>
-## 19. Glosario <a name="Glosario"></a>
+## 17.Riesgos de planeacion <a name="Riesgos"></a>
+- Falta de personal para realizar las pruebas
+- Entrega tardia del software 
+- Cambios al diseño y requerimientos originales 
+
+## 18.Aprobaciones <a name="Aprobaciones"></a>
+Para dar como completo el proceso de pruebas, se debera de dar el visto bueno por al menos 3 integrantes. En caso de no ser asi, se discutira el porque de la decision y se realizara una nueva votacion o se continuara trabajando en el proyecto 
+
+## 19.Glosario <a name="Glosario"></a>
+- BRB: Biblioteca Raul Bailleres
+- la H: El ITAM
+- ITAM: Instituto de Tecnicas y Artes de Mexico 
+ 
 
 
 
