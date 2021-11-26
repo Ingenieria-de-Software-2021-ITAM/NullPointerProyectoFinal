@@ -90,6 +90,8 @@ cumpla con todos los requerimientos, manteniendo como mentalidad el  “qué esp
 -  Ningun error de codigo mediano con soluciones rapidas o que pueda llevar proximamente al fallo de la pagina 
 
 ## 10.Suspension de criterios y requerimientos para continuar <a name="Suspension"></a>
+En caso de surgir algun error que pueda llevar a fallo la pagina, suspenderemos las pruebas y regresaremos a trabajar en el codigo. De igual manera, si en las pruebas de usuario mas del 20% de los usuarios se toman mas de 15 min en subir un proyecto, declararemos que el sistema no es intuitivo y tendremos que generar otra version. 
+
 ## 11.Pruebas entregables <a name="Pruebas"></a>
 ## 12.Tareas de pueba pendientes <a name="Tareas"></a>
 ## 13.Necesidades del ambiente <a name="ambiente"></a>
