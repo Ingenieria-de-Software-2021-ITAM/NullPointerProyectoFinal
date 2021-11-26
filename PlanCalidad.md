@@ -120,8 +120,18 @@ Las pruebas de usuario estaran listas para el 27 de noviembre del 2021
 La correccion de errores se terminará el 6 de diciembre 
 
 ## 17.Riesgos de planeacion <a name="Riesgos"></a>
+- Falta de personal para realizar las pruebas
+- Entrega tardia del software 
+- Cambios al diseño y requerimientos originales 
+
 ## 18.Aprobaciones <a name="Aprobaciones"></a>
+Para dar como completo el proceso de pruebas, se debera de dar el visto bueno por al menos 3 integrantes. En caso de no ser asi, se discutira el porque de la decision y se realizara una nueva votacion o se continuara trabajando en el proyecto 
+
 ## 19.Glosario <a name="Glosario"></a>
+BRB: Biblioteca Raul Bailleres
+la H: El ITAM
+ITAM: Instituto de Tecnicas y Artes de Mexico 
+ 
 
 
 
