@@ -12,7 +12,7 @@ Versión 1.0
 Noviembre 2021
 ---
 ## Tabla de contenidos
-  1. [Introducción](#introduccion)
+  1. [Introducción](#introducción)
   2. [Descripción general](#descripcion-general)
   3. [Requerimientos de interfaz externa](#requerimientos-de-interfaz-externa)
   4. [Requerimientos de software](#requerimientos-de-software)
