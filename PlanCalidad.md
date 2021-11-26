@@ -31,13 +31,16 @@ Noviembre 2021
 17) [Riesgos de planeación](#Riesgos)
 18) [Aprobaciones](#Aprobaciones)
 19) [Glosario](#Glosario)
-20) 
+ 
 ## 1.Identificador de plan de calidad <a name="identificador"></a>
 Versión 1.0 del Master Plan
 
 ## 2.Referencias <a name="Referencias"></a>
+
 [ITAMPropone prototipo (versión actual)](https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a)
+
 [Repositorio en GitHub](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointer-Markdown)
+
 [Formato del plan de calidad](https://jmpovedar.files.wordpress.com/2014/03/ieee-829.pdf)
 
 
@@ -50,7 +53,7 @@ Para garantizar que la página ITAMPropone cuente con todos los requerimientos d
 - Registro de proyectos con datos e imágenes efectivo
 - Registro de votos exitoso
 - Vista y análisis de datos certeros e intuitivos
-- 
+
 ## 5.Eventos de riesgo del software <a name="Eventos-de-riesgo"></a>
 Las áreas críticas que encontramos que debes probar son:
 - Adaptabilidad a distintos navegadores web y distintos dispositivos
