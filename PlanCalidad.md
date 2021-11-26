@@ -81,7 +81,14 @@ Los riesgos inherentes del software que tenemos que cuidar son:
 - Incluir videos en la descripción del proyecto
  
 ## 8.Acercamiento <a name="Acercamiento"></a>
+Para realizar nuestras pruebas utilizaremos Manual testing para checar que el software
+cumpla con todos los requerimientos, manteniendo como mentalidad el  “qué esperaría el cliente que pase sí hace x o y”. Tambien utilizaremos dinamicos pues creemos que asi priorizaremos al cliente, ya que recibira lo que se esperaba del software. Finalmente utilizaremos Black Box Testing para realizar pruebas de usuarios que nos indiquen si la aplicacion es intuitiva y responsiva en esenarios lo mas parecidos a cuando se publique la pagina. 
+
 ## 9.Criterios de eventos exitosos o fallidos <a name="Criterios"></a>
+- Haber realizado todas las pruebas ya programadas
+- Tener un exito del 95 % 
+-  Ningun error de codigo mediano con soluciones rapidas o que pueda llevar proximamente al fallo de la pagina 
+
 ## 10.Suspension de criterios y requerimientos para continuar <a name="Suspension"></a>
 ## 11.Pruebas entregables <a name="Pruebas"></a>
 ## 12.Tareas de pueba pendientes <a name="Tareas"></a>
