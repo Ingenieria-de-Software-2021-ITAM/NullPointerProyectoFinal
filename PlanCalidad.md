@@ -79,7 +79,7 @@ Los riesgos inherentes del software que tenemos que cuidar son:
 - Dejar comentarios en los proyectos para que otros usuarios los puedan ver
 - Ver cuantos likes ha recibido un proyecto
 - Incluir videos en la descripción del proyecto
--
+
 ## 8.Acercamiento <a name="Acercamiento"></a>
 Para realizar nuestras pruebas utilizaremos Manual testing para checar que el software
 cumpla con todos los requerimientos, manteniendo como mentalidad el  “qué esperaría el cliente que pase sí hace x o y”. También utilizaremos dinámicos pues creemos que así priorizaremos al cliente, ya que recibirá lo que se esperaba del software. Finalmente utilizaremos Black Box Testing para realizar pruebas de usuarios que nos indiquen si la aplicación es intuitiva y responsiva en escenarios lo más parecidos a cuando se publique la página.
