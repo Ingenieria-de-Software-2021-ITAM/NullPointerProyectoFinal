@@ -53,7 +53,7 @@ Para garantizar que la pagina ITAMPropone cuente con todos los requerimientos de
 - Registro de proyectos con datos e imagenes efectivo
 - Registro de votos exitoso
 - Vista y analisis de datos certeros e intuitivos 
-- 
+
 ## 5.Eventos de riesgo del software <a name="Eventos-de-riesgo"></a>
 Las areas criticas que encontramos que debemos probar son: 
 - Adaptabilidad a distintos navegadores web y distintos dispositivos
@@ -79,7 +79,7 @@ Los riesgos inherentes del software que tenemos que cuidar son:
 - Dejar comentarios en los proyectos para que otros usuarios los puedan ver 
 - Ver cuantos likes ha recibido un proyecto 
 - Incluir videos en la descripción del proyecto
--  
+ 
 ## 8.Acercamiento <a name="Acercamiento"></a>
 ## 9.Criterios de eventos exitosos o fallidos <a name="Criterios"></a>
 ## 10.Suspension de criterios y requerimientos para continuar <a name="Suspension"></a>
