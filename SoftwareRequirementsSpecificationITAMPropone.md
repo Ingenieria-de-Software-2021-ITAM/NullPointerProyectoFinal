@@ -59,6 +59,7 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   - Votar: el usuario vota por los proyectos que más le agraden.
   - Consultar proyectos: se exhiben los proyectos con más votos hasta el momento.
   - Ver proyectos: el administrador maneja los proyectos existentes.
+  - Ver proyectos por publicar: el administrador hace visibles los proyectos.
 
   Página principal:
   - Proponer un proyecto: manda al usuario a la pantalla "Proponer un proyecto".
@@ -69,6 +70,7 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   Página principal (versión administrador):
   - Ver proyectos: manda al administrador a la pantalla "Ver proyectos".
   - Cerrar sesión: se cierra la sesión actual.
+  - Ver proyectos por publicar: manda al administrador a la pantalla "Publicar proyectos"
   
   Iniciar sesión:
   - Correo: el usuario ingresa su correo institucional o con su cuenta de administrador.
@@ -99,6 +101,13 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   - Barra de búsqueda: el usuario escribe los datos del proyecto que desea buscar.
   - Buscar: se muestran los proyectos que resultan de la búsqueda.
   - Eliminar: muestra una ventana "pop-up" para verificar si la selección fue correcta.
+  - Aceptar: elimina el proyecto seleccionado.
+  - Cancelar: cancela la acción.
+  - Página principal: regresa a la vista de la página principal versión administrador.
+  
+  Publicar proyectos:
+  - Barra de búsqueda: el usuario escribe los datos del proyecto que desea buscar.
+  - Buscar: se muestran los proyectos que resultan de la búsqueda.
   - Aceptar: elimina el proyecto seleccionado.
   - Cancelar: cancela la acción.
   - Página principal: regresa a la vista de la página principal versión administrador.
