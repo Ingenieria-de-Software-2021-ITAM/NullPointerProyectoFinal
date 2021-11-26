@@ -88,7 +88,6 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   - Botón con ícono de corazón: genera un voto por el proyecto que se muestra en pantalla y avanza al siguiente proyecto.
   - Botón con ícono de cruz: avanza al siguiente proyecto.
   - Botón flecha: regresa al proyecto anterior.
-  - 
   - Página principal: regresa a la vista de la página principal.
 
   Consultar proyectos:
@@ -139,8 +138,8 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
    ![página principal](https://user-images.githubusercontent.com/47927104/143512608-333011ae-c7df-4ba3-a37b-81cfcda3fc09.png)
 
   ####  3.1.3 Vista "Página principal (versión administrador)"
-
-  ![página principal-admin](https://user-images.githubusercontent.com/47927104/143512610-7d9dbf24-cc9a-402f-8b45-ca35e8a03bb8.png)
+  
+  ![página principal-admin](https://user-images.githubusercontent.com/47927104/143601066-1bc1cd07-a983-4f81-b3d3-864e6d18de81.png)
 
   ####  3.1.4 Vista "Proponer proyecto" (Al presionar enviar, aparece un mensaje de proyecto enviado correctamente)
 
@@ -158,6 +157,10 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   ####  3.1.7 Pantalla "Eliminar proyectos" 
 
   ![verproyectos](https://user-images.githubusercontent.com/47927104/143512611-03069dc9-b83b-4fd6-8915-6b39d7d63fe9.png)
+  
+  #### 3.1.8 Pantalla "Publicar proyectos"
+  
+  ![publicar](https://user-images.githubusercontent.com/47927104/143601071-e65f01d0-acba-428c-8695-ec8cd9b31960.png)
 
   ### 3.2 Interfaces de hardware
   
@@ -186,9 +189,6 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
 
   &emsp; Para los usuarios generals, querer proponer un proyecto nuevo, poder ver votar por algún proyecto publicado, consultar la popularidad de los proyectos existentes. Para los administradores, poder manejar los proyectos existentes.
   
-  #### &emsp; Caso de uso
-  
-
    #### &emsp; 4.1.3 Requerimientos funcionales
 
   - REQ-1: El usuario pueda escribir sus credenciales y sean autenticadas.
@@ -248,6 +248,21 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   - REQ-1: Revisar que las propuestas con la popularidad (menos del 10% de la comunidad) más baja tengan menos de 1 semestre de antigüedad. Las que no cumplan con este enunciado, serán eliminadas. 
   - REQ-2: Poder eliminar alguna propuesta a voluntad.
   - REQ-3: Eliminar todos los datos existentes sobre la propuesta. 
+ 
+ ### 4.5 Publicar proyectos
+  
+   #### &emsp; 4.5.1 Descripción y prioridad
+
+  &emsp; Prioridad Alta. Permitir que el administrador de el visto bueno de una propuesta y pueda ser publicada.
+
+   #### &emsp; 4.5.2 Secuencia de respuestas
+
+ &emsp; La comunidad quiere presentar una propuesta. Se verifica que tenga sentido antes de ser publicada. 
+
+   #### &emsp; 4.5.3 Requerimientos funcionales
+
+  - REQ-1: Ver contenido de las propuestas
+  - REQ-2: Poder publicar alguna propuesta 
 
 ## 5. Otros requerimientos <a name="otros-requerimientos"></a>
 
