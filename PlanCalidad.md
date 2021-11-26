@@ -1,74 +1,54 @@
 # Plan de calidad para ITAMPropone
-
+--- 
+Autores:
+- Arteaga Mendoza Karen
+- Castillejos Victor
+- Espinosa Elisa
+- Ortiz Jorge
+---
+--- 
+Versión 1.0
+--- 
+Noviembre 2021
+---
 ## Tabla de contenidos
-  1. [Test plan identifier](#h1)
-  2. [References](#h2)
-  3. [Introduction](#h3)
-  4. [Test Elements](#h4)
-  5. [Software Risk Issues](#h5)
-  6. [Features to be tested](#h6)
-  7. [Features not to be tested](#h7)
-  8. [Approach](#h8)
-  9. [Item pass/fail Criteria](#h9)
-  10. [Suspension Criteria and Resumption Requirements](#h10)
-  11. [Test Deliverables](#h11)
-  12. [Remaining Test Tasks](#h12)
-  13. [Environmental Needs](#h13)
-  14. [Staffing and training needs](#h14)
-  15. [Responsabilities](#h15)
-  16. [Schedule](#h16)
-  17. [Planning Risks And Contingenciees](#h17)
-  18. [Approvals](#h18)
+1) [Identificador de plan de calidad](#identificador)
+2) [Referencias](#Referencias)
+3) [Introduccion](#Introduccion)
+4) [Objetos de Prueba](#Objetos)
+5) [Eventos de riesgo del software ](#Eventos-de-riesgo)
+6) [Funcionalidades a probar ](#Funcionalidades)
+7) [Funcionalidades que no se probaran ](#Funcionalidades-no )
+8) [Acercamiento](#Acercamiento)
+9) [Criterios de eventos exitosos o fallidos ](#Criterios)
+10) [Suspension de criterios y requerimientos para continuar  ](#Suspension)
+11) [Pruebas entregables](#Pruebas)
+12) [Tareas de pueba pendientes ](#Tareas)
+13) [Necesidades del ambiente](#ambiente)
+14) [Necesidades de entrenamiento y staff](#entrenamiento)
+15) [Responsibilidades](#Responsibilidades)
+16) [Itinerario](#Itinerario)
+17) [Riesgos de planeacion](#Riesgos)
+18) [Aprobaciones](#Aprobaciones)
+19) [Glosario](#Glosario)
+## 1.Identificador de plan de calidad <a name="identificador"></a>
+## 2.Referencias <a name="Referencias"></a>
+## 3.Introduccion <a name="Introduccion"></a>
+## 4.Objetos de Prueba <a name="Objetos"></a>
+## 5.Eventos de riesgo del software <a name="Eventos-de-riesgo"></a>
+## 6.Funcionalidades a probar <a name="Funcionalidades"></a>
+## 7.Funcionalidades que no se probaran <a name="Funcionalidades-no"></a>
+## 8.Acercamiento <a name="Acercamiento"></a>
+## 9.Criterios de eventos exitosos o fallidos <a name="Criterios"></a>
+## 10.Suspension de criterios y requerimientos para continuar <a name="Suspension"></a>
+## 11.Pruebas entregables <a name="Pruebas"></a>
+## 12.Tareas de pueba pendientes <a name="Tareas"></a>
+## 13.Necesidades del ambiente <a name="ambiente"></a>
+## 14.Necesidades de entrenamiento y staff <a name="entrenamiento"></a>
+## 15.Responsibilidades <a name="Responsibilidades"></a>
+## 16.Itinerario <a name="Itinerario"></a>
+## 17.Riesgos de planeacion <a name="Riesgos"></a>
+## 18.Aprobaciones <a name="Aprobaciones"></a>
+## 19.Glosario <a name="Glosario"></a>
 
-  ## 1. Test plan identifier <a name="h1"></a>
-  
-  ## 2. References <a name="h2"></a>
-  
-  ## 3. Introduction <a name="h3"></a>
-  
-  ## 4. Test Elements <a name="h4"></a>
-  
-  - Inicio de sesión
-  - Alta de propuestas
-  - Baja de propuestas
-  - Registro de votaciones
-  - Actualización de votaciones
-  - Despliegue de proyectos populares
-  
-  ## 5. Software Risk Issues <a name="h5"></a>
-  
-  
-  ## 6. Features to be tested <a name="h6"></a>
-  
-  - Inicio de sesión
-  - Publicar proyectos
-  - Votar por proyectos
-  - Eliminar proyectos
-  
-  ## 7. Features not to be tested <a name="h7"></a>
-  
-  - 
-  
-  ## 8. Approach <a name="h8"></a>
-  
-  
-  ## 9. Item pass/fail Criteria <a name="h9"></a>
-  
-  ## 10. Suspension Criteria and Resumption Requirements <a name="h10"></a>
-  
-  ## 11. Test Deliverables <a name="h11"></a>
-  
-  ## 12. Remaining Test Tasks <a name="h12"></a>
-  
-  ## 13. Environmental Needs <a name="h13"></a>
-  
-  ## 14. Staffing and training needs <a name="h14"></a>
-  
-  ## 15. Responsabilities <a name="h15"></a>
-  
-  ## 16. Schedule <a name="h16"></a>
-  
-  ## 17. Planning Risks And Contingenciees <a name="h17"></a>
-  
-  ## 18. Approvals <a name="h18"></a>
 
