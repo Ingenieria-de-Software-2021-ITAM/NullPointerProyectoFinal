@@ -196,11 +196,11 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   - REQ-3: Redirigir al usuario a la versión general o administrador según los permisos que tenga.
     
 
-  ### 4.2 Publicar proyectos
+  ### 4.2 Proponer un proyecto
 
    #### &emsp; 4.2.1 Descripción y prioridad
 
-  &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM escriban y publiquen un posible proyecto. 
+  &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM escriban y propongan un posible proyecto. 
 
    #### &emsp; 4.2.2 Secuencia de respuestas
 
