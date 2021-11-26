@@ -180,17 +180,21 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
 
    #### &emsp; 4.1.1 Descripción y prioridad
 
-   &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM tengan permitido accesar a la página ITAMPropone. Permitir que los administradores tengan acceso permitido a ITAMPropone en su versión de administrador.
+   &emsp; Prioridad alta. Permitir que les alumnes, exalumnes y profesores del ITAM tengan permitido accesar a la página ITAMPropone. Permitir que los administradores tengan acceso permitido a ITAMPropone en su versión de administrador.    
 
    #### &emsp; 4.1.2 Secuencia de respuestas
 
   &emsp; Para los usuarios generals, querer proponer un proyecto nuevo, poder ver votar por algún proyecto publicado, consultar la popularidad de los proyectos existentes. Para los administradores, poder manejar los proyectos existentes.
+  
+  #### &emsp; Caso de uso
+  
 
    #### &emsp; 4.1.3 Requerimientos funcionales
 
   - REQ-1: El usuario pueda escribir sus credenciales y sean autenticadas.
   - REQ-2: De no ser autenticadas, mandar un mensaje de error.
   - REQ-3: Redirigir al usuario a la versión general o administrador según los permisos que tenga.
+    
 
   ### 4.2 Publicar proyectos
 
