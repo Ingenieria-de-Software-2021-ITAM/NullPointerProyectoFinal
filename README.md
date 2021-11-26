@@ -52,4 +52,4 @@ https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a
 
 ## Propuesta económica
 
-[Propuesta económica para ITAMPropone](https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0)
+Para lograr un balance entre el alcance, tiempo y costo de nuestro proyecto, realizamos la siguiente[Propuesta económica para ITAMPropone](https://docs.google.com/spreadsheets/d/1X4sJLzmyVvuYx860ZdQr7GSJIlZPPlW4-zG5PzRE7gA/edit#gid=0)
