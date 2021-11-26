@@ -15,7 +15,7 @@ Noviembre 2021
   1. [Introducción](#introduccion)
   2. [Descripción general](#descripcion-general)
   3. [Requerimientos de interfaz externa](#requerimientos1)
-  4. [Requerimientos de software](#requerimientos2)
+  4. [Funcionalidades del sistema](#requerimientos2)
   5. [Otros requerimientos](#otros-requerimientos)
 
 ## 1. Introducción <a name="introduccion"></a>
@@ -174,7 +174,7 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
   ITAMPropone en su versión actual es accesible a cualquier integrante de la comunidad ITAM que posea el enlace de visualización y un navegador web soporte la herramienta de desarrollo https://moqups.com hasta la fecha.
   ITAMPropone, en su versión final, será accesible a la comunidad ITAM a través de un navegador web.
 
-## 4. Requerimientos de software <a name="requerimientos2"></a>
+## 4. Funcionalidades del sistema <a name="requerimientos2"></a>
 
   ### 4.1 Inicio de sesión
 
