@@ -6,9 +6,8 @@ Autores:
 - Espinosa Elisa
 - Ortiz Jorge
 ---
---- 
-Versión 1.0
---- 
+
+
 Noviembre 2021
 ---
 ## Tabla de contenidos
@@ -51,4 +50,14 @@ Noviembre 2021
 ## 18.Aprobaciones <a name="Aprobaciones"></a>
 ## 19.Glosario <a name="Glosario"></a>
 
+## 1.Identificador de plan de calidad <a name="identificador"></a>
+Version 1.0 del Master Plan
+## 2.Referencias <a name="Referencias"></a>
+[ITAMPropone prototipo (versión actual)](https://app.moqups.com/mevbofgFeMiSIqXfxduif6CG89wNGW8F/view/page/af2dcae8a)
+[Repositorio en GitHub](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointer-Markdown)
+[Formato del plan de calidad](https://jmpovedar.files.wordpress.com/2014/03/ieee-829.pdf)
+
+
+## 3.Introduccion <a name="Introduccion"></a>
+Para garantizar que la pagina ITAMPropone cuente con todos los requerimientos de calidad, se seguira este plan de calidad, el cual es nuestro MAster Plan. Se busca garantizar la confidencialidad de nuestros usuarios mientras se guarda la integridad. Implementaremos medidas que fomenten la disponibilidad a la par de medidas que aseguren la autenticación del usuario. Haremos pruebas para medir y mejorar la fiabilidad y rendimiento de nuestra pagina. Finalmente  cuidaremos que nuestro software sea facil de mantener y entregar, elementos vitales para obtener un producto de calidad. 
 
