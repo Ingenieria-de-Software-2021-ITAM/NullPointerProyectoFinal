@@ -13,6 +13,8 @@ Los apartados que no se encuentran en el documento de especificación de requeri
 
 ## Plan de Calidad
 
+[Plan de Calidad para ITAMPropone](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/PlanCalidad.md#plan-de-calidad-para-itampropone)
+
 ## Arquitectura
 
 Elegimos una arquitectura por capas porque se enfoca en la distribución de roles y responsabilidades de forma jerárquica, además provee una forma muy efectiva de 
