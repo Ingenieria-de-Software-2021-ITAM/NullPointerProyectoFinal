@@ -104,7 +104,8 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
 
 ###  3.3 Pantalla "Proponer proyecto" (Al presionar enviar, aparece un mensaje de proyecto enviado correctamente)
 
-![proponer](https://user-images.githubusercontent.com/47927104/143380414-c894fe6c-6af0-453d-98cd-2f1a23b6a261.png)
+![proponer](https://user-images.githubusercontent.com/47927104/143509497-3efa3db2-0c4d-45ea-a09c-3fd0edd5d284.png)
+
 
 ###  3.4 Pantalla "Votar por proyectos" (Al votar por un proyecto, la opción de votar por ese proyecto desaparece)
 
@@ -151,6 +152,7 @@ Poner 3 casos de uso por requirement
 - REQ-4: Al presionar enviar, guardar toda la información (autor, nombre del proyecto y contenido) del nuevo proyecto en la base de datos.
 - REQ-5: Agregar palabras clave sobre el contenido del texto (tema).
 - REQ-6: No permitir enviar una propuesta con menos de 20 caracteres.
+- REQ-7: Añadir fotos
 
 ### 4.3 "Votar por proyectos"
 
@@ -164,10 +166,9 @@ Poner 3 casos de uso por requirement
 
 #### &emsp; 4.3.3 Requerimientos funcionales
 
-- REQ-1: Poder buscar por autor, nombre del proyecto, tema o fecha de publicación. 
-- REQ-2: Ver en una tabla las propuestas más populares antes de buscar.
-- REQ-3: Poder observar en la tabla los proyectos que cumplan con la búsqueda de la tabla.
-- REQ-4: Al votar por un proyecto, eliminar la opción de volver a votar, para evitar múltiples votos. 
+- REQ-1: Al votar por un proyecto, eliminar la opción de volver a votar, para evitar múltiples votos.
+- REQ-2: Si no votas por el proyecto, no debe aparecer de nuevo en feed de votaciones.
+- REQ-3: Poder leer las descripciones de los proyectos y ver las imágenes. 
 
 ### 4.4 "Eliminar proyectos"
 
