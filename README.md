@@ -113,7 +113,7 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
 
 ###  3.5 Pantalla "Propuestas populares" (Aparecen las propuestas populares. Además, puedes buscar las propuestas por nombre, autor, descripción, etc)
 
-![propuestas](https://user-images.githubusercontent.com/47927104/143381928-e565ade8-10f0-46f1-9ba0-5caa9b5554a1.png)
+![propuestas](https://user-images.githubusercontent.com/47927104/143509731-11628dc9-951f-4a60-89e8-f2eee5531ab0.png)
 
 
 ## 4. Software Requirements
