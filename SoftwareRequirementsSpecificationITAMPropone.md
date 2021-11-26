@@ -1,11 +1,14 @@
----
-title: Especificación de requerimientos de software para ITAMPropone
-author:
+# Especificación de requerimientos de software para ITAMPropone
+--- 
+Autores:
 - Arteaga Mendoza Karen
 - Castillejos Victor
 - Espinosa Elisa
 - Ortiz Jorge
-date: 25/11/21
+---
+---
+Versión 1.0
+Noviembre 2021
 ---
 
 ## 1. Introducción
@@ -221,4 +224,11 @@ ITAMPropone se desarrolló para ser reproducido en internet como página web.
 - REQ-1: Revisar que las propuestas con la popularidad (menos del 10% de la comunidad) más baja tengan menos de 1 semestre de antigüedad. Las que no cumplan con este enunciado, serán eliminadas. 
 - REQ-2: Poder eliminar alguna propuesta a voluntad.
 - REQ-3: Eliminar todos los datos existentes sobre la propuesta. 
+
+## 5. Otros requerimientos
+
+  ### 5.1 Requerimientos de desempeño
+  ### 5.2 Requerimientos de seguridad
+  ### 5.3 Calidad de software
+  
 
