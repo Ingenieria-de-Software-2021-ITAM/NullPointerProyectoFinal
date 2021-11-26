@@ -9,6 +9,7 @@ Las votaciones por los proyectos que a les estudiantes les interesan se manejan 
 
 El documento de especificación de requerimientos de software con 3 casos de uso por requerimiento se encuentra en el siguiente enlace:
 [Requerimientos de software para ITAMPropone](https://github.com/Ingenieria-de-Software-2021-ITAM/NullPointerProyectoFinal/blob/main/SoftwareRequirementsSpecificationITAMPropone.md)
+Los apartados que no se encuentran en el documento de especificación de requerimientos de software se descartaron debido a que la versión actual del producto se encuentra en la fase de prototipo.
 
 ## Plan de Calidad
 
